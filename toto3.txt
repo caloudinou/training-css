@@ -1,4 +1,4 @@
-salut
-
-aloha
-good
+0salut
+1
+2aloha
+3good
